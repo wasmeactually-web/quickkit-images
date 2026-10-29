@@ -1,0 +1,8 @@
+{
+  "name": "QuickKit Images",
+  "description": "Free, browser-based online image tools. Resize, compress, and convert JPG, PNG, and WebP images locally with zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
